@@ -4,19 +4,20 @@
 │────────────────────────────────────────────────────────────────────────────────────────────────────────│
 │                                                                                                        │
 │ > ./quem_sou_eu                                                                                        │
-│   ► Jean Paulo                                                                                         │
+│   ► Jean Paulo, 22 anos.                                                                               │
 │   ► Um garoto de programa que adora o que faz.                                                         │
 │   ► Sempre metido em algum projeto pessoal que pode (ou não) acabar no GitHub, depende do resultado.   │
 │                                                                                                        │
 │ > ./arsenal_favorito                                                                                   │
-│   ► C++ (usando winapi)                                                                                │
+│   ► C++ (para qualquer tipo de coisa)                                                                  │
 │   ► Assembly (sei pouco mas gosto muito)                                                               │
 │   ► Python (projetos rápidos e eficazes)                                                               │
 │   ► Batch scripting (automatizando o inevitável)                                                       │
 │                                                                                                        │
 │ > ls ~/repos                                                                                           │
-│   ► Xp Library — Aplicação Web em desenvolvimento                                                      │
-│   ► ... (vou colocar outros muito em breve)                                                            │
+│   ► Xp-Library — Aplicação Web Full Stack                                                              │
+│   ► MHI-Bot — Um projeto antigo                                                                        │
+│   ► from-zero-to-code — Cursos antigos de um aprendiz da programação                                   │
 │                                                                                                        │
 │ > ./linguagens                                                                                         │
 │   ► C/C++                                                                                              │
@@ -25,11 +26,9 @@
 │   ► Batch                                                                                              │
 │                                                                                                        │
 │ > ./frameworks_bibliotecas_e_ferramentas                                                               │
-│   ► Node.js                                                                                            │
-│   ► Vite                                                                                               │
-│   ► React                                                                                              │
-│   ► NestJs                                                                                             │
-│   ► Prisma                                                                                             │
+│   ► Node, Vite, React, NestJs, Prisma                                                                  │
+│   ► WinAPI                                                                                             │
+│   ► Threads                                                                                            │
 │   ► Docker                                                                                             │
 │                                                                                                        │
 │ > ./links                                                                                              │
