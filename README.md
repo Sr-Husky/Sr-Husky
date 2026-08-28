@@ -16,19 +16,17 @@
 │                                                                                                        │
 │ > ls ~/repos                                                                                           │
 │   ► Xp-Library — Aplicação Web Full Stack                                                              │
-│   ► MHI-Bot — Um projeto antigo                                                                        │
-│   ► from-zero-to-code — Cursos antigos de um aprendiz da programação                                   │
 │                                                                                                        │
 │ > ./linguagens                                                                                         │
 │   ► C/C++                                                                                              │
 │   ► Python                                                                                             │
 │   ► HTML, CSS, JS, TS                                                                                  │
-│   ► Batch                                                                                              │
 │                                                                                                        │
 │ > ./frameworks_bibliotecas_e_ferramentas                                                               │
 │   ► Node, Vite, React, NestJs, Prisma                                                                  │
 │   ► WinAPI                                                                                             │
-│   ► Threads                                                                                            │
+│   ► pthreads                                                                                           │
+│   ► io_uring, FUSE                                                                                     │
 │   ► Docker                                                                                             │
 │                                                                                                        │
 │ > ./links                                                                                              │
